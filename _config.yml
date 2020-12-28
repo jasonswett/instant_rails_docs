@@ -30,7 +30,7 @@ twitter_username: jasonswett
 github_username:  jasonswett
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
