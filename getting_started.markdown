@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started
+title: Getting Started with Instant Rails
 permalink: /getting-started/
 ---
 
