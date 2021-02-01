@@ -10,14 +10,14 @@ Once you've purchased a license from the [Instant Rails website](https://www.ins
 The Instant Rails app generation command is as follows.
 
 ```
-$ curl https://get.instantrails.app|sh -s <app name> <license key>
+$ curl get.instantrails.app|sh -s <app name> <license key>
 ```
 
 If for example your license key is `8d103360d1c68a5d4fb398b15d3d8a60` and you wanted to create an app
 called `hello_world`, you would run the following command.
 
 ```
-$ curl https://get.instantrails.app|sh -s hello_world 8d103360d1c68a5d4fb398b15d3d8a60
+$ curl get.instantrails.app|sh -s hello_world 8d103360d1c68a5d4fb398b15d3d8a60
 ```
 
 This command will generate a Rails app for you, download and unzip it, then start a Rails server that you can visit.
